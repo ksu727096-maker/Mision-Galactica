@@ -1,2 +1,2 @@
-# Misi-n-Gal-ctica
+# Mision-Galactica
 practica fundamentos de Python (Jupiter)
