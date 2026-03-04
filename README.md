@@ -1,2 +1,2 @@
 # Mision-Galactica
-practica fundamentos de Python (Jupiter)
+Aquí está una práctica en fundamentos de Python, aplicando Jupiter por primera vez.
